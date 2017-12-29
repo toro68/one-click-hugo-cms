@@ -1,7 +1,7 @@
 ---
 title: Staal Jørpeland IL
 subtitle: HANDLEKRAFT. ENGASJEMENT. RESPEKT.
-image: /img/home-jumbotron.jpg
+image: /img/brynecup.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
